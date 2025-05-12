@@ -1,7 +1,6 @@
 # The Site Configuration
 
 # Import the theme
-theme: jekyll-theme-chirpy
 # 削除 or コメントアウト
 # theme: jekyll-theme-chirpy
 
